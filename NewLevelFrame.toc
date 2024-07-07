@@ -1,0 +1,17 @@
+﻿## Interface: 11200
+## Title: NewLevelFrame
+## Notes: New frame for level-up event.
+## Notes-ruRU: Фрейм для события получения уровня.
+## Notes-deDE: Neuer Rahmen für Level-Up-Event.
+## Notes-esES: Nuevo marco para el evento de subir de nivel.
+## Notes-esMX: Nuevo marco para el evento de subir de nivel.
+## Notes-frFR: Nouveau cadre pour l'événement de niveau supérieur.
+## Notes-koKR: 레벨업 이벤트의 새 프레임입니다.
+## Notes-enCN: 升级事件的新框架。
+## Notes-zhCN: 升级事件的新框架。
+## Notes-zhTW: 升級事件的新框架。
+## Version: 1.2
+## Author: alchem1ster
+
+localization.lua
+main.lua

@@ -10,7 +10,6 @@ https://github.com/alchem1ster/Vanilla-NewLevelFrame/assets/3815426/6ab16e45-e26
 
 
 ## How to install
-(1) Download THIS archive;  
-(2) Extract `NewLevelFrame-master` folder to your `Interface/AddOns` folder;  
-(3) Remove `-master` from folder name;  
-(4) Enjoy!  
+- Download [THIS](https://github.com/alchem1ster/Vanilla-NewLevelFrame/releases/latest/download/NewLevelFrame.zip) archive;  
+- Extract `NewLevelFrame` folder to your `Interface/AddOns` folder;  
+- Enjoy!  

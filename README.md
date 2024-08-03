@@ -6,7 +6,9 @@
 Just New Level Frame that will be shown when PLAYER_LEVEL_UP event is triggered
 
 
-https://github.com/alchem1ster/Vanilla-NewLevelFrame/assets/3815426/6ab16e45-e263-48ee-80be-5d96867c48d4
+
+https://github.com/user-attachments/assets/c84f4997-e770-4bf2-8f36-6b72ed40e876
+
 
 
 ## How to install
